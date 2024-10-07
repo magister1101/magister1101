@@ -9,8 +9,8 @@ I'm currently working on a Learning Management System<br>Don't Ask me anything<b
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/magister1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markvanmortem) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=magister1101&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=magister1101&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=magister1101&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magister1101&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
