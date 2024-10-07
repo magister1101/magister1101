@@ -1,7 +1,9 @@
 <img alight="right" alt="animation" width="200" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
 # 💫 About Me:
-I'm currently working on a Learning Management System<br>Ask me about Express<br>I'm a little all over the place
+I'm currently working on a Learning Management System<br>Don't Ask me anything<br>I'm a little all over the place
+
+[![](https://visitcount.itsvg.in/api?id=magister1101&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/magister1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markvanmortem) 
@@ -23,7 +25,6 @@ I'm currently working on a Learning Management System<br>Ask me about Express<br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=magister1101&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=magister1101&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
