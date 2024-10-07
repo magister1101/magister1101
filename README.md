@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Learning Management System<br>Ask me about Express<br>Fun fact I'm a little all over the place
+I'm currently working on a Learning Management System<br>Ask me about Express<br>I'm a little all over the place
 
 <img alight="right" alt="animation" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
