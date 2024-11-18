@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=magister1101&theme=radical&hide_border=false)<br/>
+![]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=magister1101&theme=radical)](https://git.io/streak-stats))<br/>
 ![](https://github-readme-stats.vercel.app/api?username=magister1101&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magister1101&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <img alight="right" alt="animation" width="210" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
